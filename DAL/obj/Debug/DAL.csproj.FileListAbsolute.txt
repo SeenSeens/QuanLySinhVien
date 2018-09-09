@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\QuanLySinhVien\DAL\bin\Debug\DAL.dll
+C:\Users\user\Desktop\QuanLySinhVien\DAL\bin\Debug\DAL.pdb
+C:\Users\user\Desktop\QuanLySinhVien\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\QuanLySinhVien\DAL\obj\Debug\DAL.dll
+C:\Users\user\Desktop\QuanLySinhVien\DAL\obj\Debug\DAL.pdb
+C:\Users\user\Desktop\QuanLySinhVien\DAL\bin\Debug\DTO.dll
+C:\Users\user\Desktop\QuanLySinhVien\DAL\bin\Debug\DTO.pdb
+E:\Lap_Trinh\C#\C-_WP\QuanLySinhVien\DAL\bin\Debug\DAL.dll
+E:\Lap_Trinh\C#\C-_WP\QuanLySinhVien\DAL\bin\Debug\DAL.pdb
+E:\Lap_Trinh\C#\C-_WP\QuanLySinhVien\DAL\bin\Debug\DTO.dll
+E:\Lap_Trinh\C#\C-_WP\QuanLySinhVien\DAL\bin\Debug\DTO.pdb
+E:\Lap_Trinh\C#\C-_WP\QuanLySinhVien\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+E:\Lap_Trinh\C#\C-_WP\QuanLySinhVien\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\Lap_Trinh\C#\C-_WP\QuanLySinhVien\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\Lap_Trinh\C#\C-_WP\QuanLySinhVien\DAL\obj\Debug\DAL.dll
+E:\Lap_Trinh\C#\C-_WP\QuanLySinhVien\DAL\obj\Debug\DAL.pdb

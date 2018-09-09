@@ -1,0 +1,2 @@
+﻿- Phần mềm quản lý sinh viên C#, ADO.NET theo mô hình 3 lớp.
+- Hướng dẫn cài đặt: Vào QuanLySinhVien\data mở file script ra coppy vào SQL Server rồi chạy nó lên.
